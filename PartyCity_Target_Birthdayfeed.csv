@@ -1,0 +1,14 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.material,entity.discountpct,entity.price,entity.sale,entity.site
+PC1001,Bluey Plastic Table Cover,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/943718?$pdpMedium$&fmt=auto&qlt=default,3.5,https://www.partycity.com/bluey-plastic-table-cover-54in-x-96in-943718.html,in stock,100,paper,20,3.5,yes,party city
+PC1002,Bluey Paper Napkins,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/937730?$pdpMedium$&fmt=auto&qlt=default,2.8,https://www.partycity.com/bluey-paper-lunch-napkins-6.5in-16ct-937730.html,in stock,100,paper,20,2.8,no,party city
+PC1003,Bluey Cardstock Kit,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/937720?$pdpMedium$&fmt=auto&qlt=default,6,https://www.partycity.com/bluey-cardstock-table-decorating-kit-27pc-937720.html,in stock,100,paper,20,6,no,party city
+PC1004,Bluey Pinata,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/969297?$pdpMedium$&fmt=auto&qlt=default,20,https://www.partycity.com/pull-string-bluey-cardstock-and-tissue-paper-pinata-17.5in-x-21.75in-969297.html,in stock,100,paper,20,20,no,party city
+PC1005,Blue Kraft Bags,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/C348520_royal-blue?$pdpMedium$&fmt=auto&qlt=default,9,https://www.partycity.com/medium-royal-blue-kraft-bags-10ct-610123.html,in stock,100,paper,20,9,no,party city
+PC1006,Blue Cupcake Stand,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/C609058_royal-blue?$pdpMedium$&fmt=auto&qlt=default,9,https://www.partycity.com/royal-blue-3-tiered-cardboard-cupcake-stand-11.5in-x-14.25in-609059.html,In stock,200,paper,15,9,no,party city
+PC1007,Blue Favor Pail,Birthday Supplies,,https://cdn.media.amplience.net/i/partycity/Patriotic_favors??$pdpMedium$&fmt=auto&qlt=default,2,https://www.partycity.com/royal-blue-metal-favor-pail-617340.html,In stock,200,paper,15,2,no,party city
